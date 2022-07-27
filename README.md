@@ -15,8 +15,8 @@ checking that the frame is received correctly and not corrupted.
 * Registers are cleared using asynchronous active low reset
 
 * PAR_EN (Configuration)
- *0: To disable frame parity bit 
- *1: To enable frame parity bit
+ * 0: To disable frame parity bit 
+ * 1: To enable frame parity bit
 
 * PAR_TYP (Configuration)
   * 0: Even parity bit 
