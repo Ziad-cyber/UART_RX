@@ -17,7 +17,7 @@ checking that the frame is received correctly and not corrupted.
 * PAR_EN (Configuration)
   *0: To disable frame parity bit 
   *1: To enable frame parity bit
-<br>
+
 * PAR_TYP (Configuration)
   * 0: Even parity bit 
   * 1: Odd parity bit
